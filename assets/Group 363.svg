@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="262.182" height="126.328" viewBox="0 0 262.182 126.328">
+  <g id="Group_363" data-name="Group 363" transform="translate(-60 -295.817)">
+    <path id="Path_1211" data-name="Path 1211" d="M343.922,449.859l29.667-24.667-25.583,30.146-5.75.438Z" transform="translate(-95.063 -91.296)" fill="#0089ea"/>
+    <path id="Path_1212" data-name="Path 1212" d="M348.532,451.469l21.974,13.564L345.6,455.086l-1.343-3.486Z" transform="translate(-95.063 -91.296)" fill="#0089ea"/>
+    <path id="Path_1213" data-name="Path 1213" d="M320.606,496.627A57.054,57.054,0,1,0,303.7,423.435" transform="translate(-95.063 -91.296)" fill="none" stroke="#0087e8" stroke-miterlimit="10" stroke-width="12"/>
+    <text id="Medico_" data-name="Medico " transform="translate(60 375.897)" fill="#0089ea" font-size="52.761" font-family="MicrosoftYaHei-Bold, Microsoft YaHei" font-weight="700"><tspan x="0" y="0">Medico</tspan><tspan y="0" font-family="MicrosoftYaHei, Microsoft YaHei" font-weight="400"> </tspan></text>
+    <text id="Reminder" transform="translate(114.333 399.23)" fill="#0089ea" font-size="24" font-family="MicrosoftYaHei, Microsoft YaHei"><tspan x="0" y="0">Reminder</tspan></text>
+    <path id="Path_1214" data-name="Path 1214" d="M345.922,455.609" transform="translate(-95.063 -91.296)" fill="#0089ea"/>
+  </g>
+</svg>
